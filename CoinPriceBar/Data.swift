@@ -6,5 +6,5 @@
 //  Copyright © 2017 Thanh Pham. All rights reserved.
 //
 
-let supportedCoins: [Coin] = [.BTC, .BCH, .ETH, .LTC, .XRP, .IOTA]
+let supportedCoins: [Coin] = [.BTC, .BAT, .XLM, .XRP, .SC, .ETH]
 let currency: FiatMoney = .USD
